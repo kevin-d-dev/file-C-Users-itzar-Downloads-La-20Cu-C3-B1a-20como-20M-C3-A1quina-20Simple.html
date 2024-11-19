@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuña - Máquina Simple de Kevin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>La Cuña - Máquina Simple de Kevin</h1>
+</header>
+
+<div class="container">
+    <h2>¿Qué es una Cuña?</h2>
+    <p>La cuña es una máquina simple que se utiliza para separar o dividir un objeto, y funciona mediante la aplicación de una fuerza. La cuña es un objeto con forma triangular y se usa para aumentar la presión sobre un área pequeña, lo que permite cortar o dividir materiales. Un ejemplo común de cuña es un hacha.</p>
+
+    <h3>Función de la Cuña</h3>
+    <p>La cuña tiene la capacidad de transformar una fuerza aplicada en una fuerza que puede separar o dividir. Se utiliza en muchas aplicaciones cotidianas, desde herramientas hasta estructuras. Las cuñas están diseñadas para amplificar la fuerza ejercida sobre ellas, lo que permite realizar tareas que de otro modo serían difíciles.</p>
+
+    <p>¡Hola! Si quieres saber más sobre otras máquinas simples, no dudes en investigar más o contactarme.</p>
+</div>
+
+<div class="footer">
+    <p>&copy; 2024 Kevin - Todo sobre máquinas simples</p>
+</div>
+
+</body>
+</html>
